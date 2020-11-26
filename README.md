@@ -1,2 +1,2 @@
 # git-github
-tutorial
+belajar memakai github dan git
